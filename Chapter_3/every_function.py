@@ -1,0 +1,13 @@
+worked = ['frito lay', 'food lion', 'perspecta', 'village inn', "bally's", 'ihop', 'knight federal solutions', 'apex']
+print(worked)
+print(sorted(worked))
+print(sorted(worked, reverse=True))
+print(worked)
+worked.reverse()
+print(worked)
+worked.reverse()
+print(worked)
+worked.sort()
+print(worked)
+worked.sort(reverse=True)
+print(worked)
